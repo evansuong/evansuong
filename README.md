@@ -1,4 +1,4 @@
-### Hi there 👋
+### TODO: write some cool stuff here
 
 <!--
 **evansuong/evansuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
