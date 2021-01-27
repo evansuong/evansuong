@@ -5,7 +5,7 @@ My name is Evan Suong and I am Computer Science Student at UCSD, a Surfer, and a
 I like to think out of the box putting my own touch and style in everything that I do and the problems that I solve. Here's some highlights of the things I've worked on so far...
 
 ## Web Dev 
-<details see more>
+<details>
    
 - #### Muse Landing Page (in development) | HTML, CSS, Javascript
     * A landing page to advertise Muse, a mobile social media application that allows individuals to connect with each other by comparing the music they listen to.
@@ -36,16 +36,22 @@ I like to think out of the box putting my own touch and style in everything that
 
 
 ## Mobile Dev 
+<details>
+   
 - #### Fouro | React Native, ExpressJS, Firebase, Expo CLI, Node.js
     * A social media app designed to give users more genuine interactions with others during this time of social distancing, developed for one of my classes 
     * As the frontend development lead for my team I was tasked with getting teammates up to speed with Javascript, Node.js, and the React Native Framework
     * [Source Code](https://github.com/evansuong/fouro-application)
     * [Check it out!](https://expo.io/appetize-simulator?url=https://expo.io/@teamcafe/fouro)
+</details>
 
 ## Desktop Dev
+<details>
+
 - #### Water Polo Statbook | SQL, .NET Core, XAML, C#
     * A water polo stat record book to store water polo team stats throughout a season
     * I intended to try this out with my high school water polo team this year but covid-19 had other plans
     * [Source Code](https://github.com/evansuong/wpf-water-polo-statbook)
+</details>
 
 And there are plenty of other projects here too!
