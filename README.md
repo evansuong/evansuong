@@ -2,17 +2,14 @@
 
 My name is Evan Suong and I am Computer Science Student at UCSD, a Surfer, and a Lover of Nature.
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-   I like to think out of the box putting my own touch and style in everything that I do and the problems that I solve. Here's some highlights of the things I've worked on so far...
-
-</details>
-
 I like to think out of the box putting my own touch and style in everything that I do and the problems that I solve. Here's some highlights of the things I've worked on so far...
 
-## Web Dev
-- #### Muse Landing Page (in development) | HTML, CSS, Javascript
+## Web Dev 
+
+<details>
+   <summary>## Web Dev</summary>
+<br>
+   - #### Muse Landing Page (in development) | HTML, CSS, Javascript
     * A landing page to advertise Muse, a mobile social media application that allows individuals to connect with each other by comparing the music they listen to.
     * Designed in Figma and HTML, CSS, and Javascript
     * All animation is done purely in CSS
@@ -37,6 +34,8 @@ I like to think out of the box putting my own touch and style in everything that
 - #### Instagram Crop Tool | ReactJS
     * A tool for Instagram users to crop their photos into 2x2, 3x3, 4x3, 5x3, or 1x10 squares to create multi panel instagram posts
     * [Source Code](https://github.com/evansuong/instagram-crop-tool)
+</details>
+
 
 ## Mobile Dev 
 - #### Fouro | React Native, ExpressJS, Firebase, Expo CLI, Node.js
