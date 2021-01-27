@@ -1,4 +1,12 @@
-### TODO: write some cool stuff here
+# Welcome!
+
+My name is Evan Suong and I am Computer Science Student at UCSD, a Surfer, and a Lover of Nature.
+
+I like to think out of the box putting my own touch and style in everything that I do and the problems that I solve. Here's some of the things I've worked on so far...
+
+## Web Dev
+- #### Smartfin Ride API
+
 
 <!--
 **evansuong/evansuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
