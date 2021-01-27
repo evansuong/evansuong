@@ -5,8 +5,7 @@ My name is Evan Suong and I am Computer Science Student at UCSD, a Surfer, and a
 I like to think out of the box putting my own touch and style in everything that I do and the problems that I solve. Here's some highlights of the things I've worked on so far...
 
 ## Web Dev 
-<summary>see more</summary>
-<details>
+<details see more>
    
 - #### Muse Landing Page (in development) | HTML, CSS, Javascript
     * A landing page to advertise Muse, a mobile social media application that allows individuals to connect with each other by comparing the music they listen to.
