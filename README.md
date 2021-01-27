@@ -7,9 +7,7 @@ I like to think out of the box putting my own touch and style in everything that
 ## Web Dev 
 
 <details>
-   <summary>## Web Dev</summary>
-<br>
-   - #### Muse Landing Page (in development) | HTML, CSS, Javascript
+- #### Muse Landing Page (in development) | HTML, CSS, Javascript
     * A landing page to advertise Muse, a mobile social media application that allows individuals to connect with each other by comparing the music they listen to.
     * Designed in Figma and HTML, CSS, and Javascript
     * All animation is done purely in CSS
