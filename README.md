@@ -23,11 +23,11 @@ I like to think out of the box putting my own touch and style in everything that
     * [Source Code](https://github.com/evansuong/smartfin_ride_api)
     * [Check it out!](http://ec2-54-203-7-235.us-west-2.compute.amazonaws.com/ride/)
 
--#### Smartfin Web Client (in development) | ReactJS, ExpressJS
+- #### Smartfin Web Client (in development) | ReactJS, ExpressJS
     * A frontend web client UI for the Smartfin Ride API right above ^^^
     * [Source Code](https://github.com/evansuong/smartfin-web-client)
 
--#### Instagram Crop Tool | ReactJS
+- #### Instagram Crop Tool | ReactJS
     * A tool for Instagram users to crop their photos into 2x2, 3x3, 4x3, 5x3, or 1x10 squares to create multi panel instagram posts
     * [Source Code](https://github.com/evansuong/instagram-crop-tool)
 
@@ -39,7 +39,7 @@ I like to think out of the box putting my own touch and style in everything that
     * [Check it out!](https://expo.io/appetize-simulator?url=https://expo.io/@teamcafe/fouro)
 
 ## Desktop Dev
--#### Water Polo Statbook | SQL, .NET Core, XAML, C#
+- #### Water Polo Statbook | SQL, .NET Core, XAML, C#
     * A water polo stat record book to store water polo team stats throughout a season
     * I intended to try this out with my high school water polo team this year but covid-19 had other plans
     * [Source Code](https://github.com/evansuong/wpf-water-polo-statbook)
