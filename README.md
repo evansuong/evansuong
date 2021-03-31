@@ -1,4 +1,4 @@
-# Welcome!
+# Yo!
 
 My name is Evan Suong and I am Computer Science Student at UCSD, a Surfer, and a Lover of Nature.
 
